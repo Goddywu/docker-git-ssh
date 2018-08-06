@@ -1,0 +1,1 @@
+Docker image with ssh tool.
